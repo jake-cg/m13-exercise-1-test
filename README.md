@@ -1,1 +1,1 @@
-# m13-exercise-1-test
+The purpose of this repository is to practice rebasing an collaborating. 
