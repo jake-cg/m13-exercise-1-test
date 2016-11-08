@@ -1,2 +1,2 @@
-The purpose of this repository is to practice rebasing an collaborating.
+The purpose of this repository is to practice rebasing an collaborating. 
 My favorite candy is
